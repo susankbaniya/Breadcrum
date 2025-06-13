@@ -1,0 +1,13 @@
+.container{
+    width:50%;
+    color:red;
+    height:300px;
+    border:1px solid black;
+text-align:center;
+}
+.home{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    margin-top:100px;
+}
